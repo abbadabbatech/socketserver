@@ -1,10 +1,10 @@
 "use strict";
 // Optional. You will see this name in eg. 'ps' or 'top' command
-process.title = 'LOOP-CHAT';
-var DBHOST = 'devdb.clinicalsoftworks.com';
-var DBUSER = 'robert';
-var DBPASS = '!L00pL00p!';
-var DBNAME = 'chatserver';
+process.title = 'xxxxxx';
+var DBHOST = 'xxxxx';
+var DBUSER = 'xxxxx';
+var DBPASS = 'xxxxx';
+var DBNAME = 'xxxxx';
 // Port where we'll run the websocket server
 var webSocketsServerPort = 3001;
 // websocket and http servers
